@@ -463,7 +463,7 @@ ul.row {
   overflow: hidden;
 }
 
-.card-work .card-image {
+.card-work .card-image img {
   height: 30rem;
   width: 100%;
   object-fit: cover;
@@ -508,6 +508,7 @@ ul.row {
   bottom: 0;
   right: 0;
 }
+
 /* testimonial */
 .card-testimonial {
   text-align: center;
